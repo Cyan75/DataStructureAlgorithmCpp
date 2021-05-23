@@ -59,6 +59,22 @@
         "utility": "cpp",
         "vector": "cpp",
         "*.tcc": "cpp",
-        "hashtable": "cpp"
+        "hashtable": "cpp",
+        "__errc": "cpp",
+        "__node_handle": "cpp",
+        "bit": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "condition_variable": "cpp",
+        "deque": "cpp",
+        "numeric": "cpp",
+        "optional": "cpp",
+        "queue": "cpp",
+        "random": "cpp",
+        "semaphore": "cpp",
+        "thread": "cpp",
+        "memory_resource": "cpp",
+        "ranges": "cpp",
+        "stop_token": "cpp"
     }
 }
